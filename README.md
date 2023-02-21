@@ -1,4 +1,4 @@
-## OLÁ! Eu sou Thales henrique ,
+## OLÁ! Eu sou Thales henrique
 
 <div>
 <href=>
