@@ -1,9 +1,11 @@
-## OLÁ! Eu sou Thales henrique
+- 👋 Hi, I’m Thales Henrique,
+- 👀 I’m interested in learning new technologies, open-source contributions, games, devops and many more
+- 🌱 I’m currently learning php , making projects, learning game designing
+
 
 <div>
 <href=>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalesHenriq&show_icons=true&theme=tokyonight"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesHenriq&hide_progress=true)](https://github.com/ThalesHenriq/github-readme-stats"
 <div/>
 
   
