@@ -28,10 +28,9 @@
   
 <div>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaleshenriq&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thaleshenriq" /></p>
+<img align="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaleshenriq&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thaleshenriq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaleshenriq&show_icons=true&locale=en&theme=tokyonight" alt="thaleshenriq" /></p>
+<img align="180em" src="https://github-readme-stats.vercel.app/api?username=thaleshenriq&show_icons=true&locale=en&theme=tokyonight" alt="thaleshenriq" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaleshenriq&&theme=tokyonight" alt="thaleshenriq" /></p>
 
 <div/>
